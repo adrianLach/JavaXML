@@ -1,4 +1,4 @@
-package framework.xml;
+package org.javaxml;
 
 import java.io.*;
 import java.util.ArrayList;

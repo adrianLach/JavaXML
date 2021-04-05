@@ -1,4 +1,4 @@
-package framework.xml;
+package org.javaxml;
 
 public class XMLInvalidNameException extends RuntimeException {
 
