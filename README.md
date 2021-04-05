@@ -14,4 +14,5 @@
   <code>XMLDocument document = new XMLDocument();</code>
   <br/>
   <code>document.loadXML(new File("<your XML-File>"));</code>
+  https://github.com/adrianLach/JavaXML/blob/bb33c22129496d031d48129bf8e5f8e421bb356d/src/org/javaxml/XMLDocument.java#L16
 </div>
