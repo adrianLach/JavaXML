@@ -6,6 +6,7 @@
 <div>
   <h3>Reading the XML-File</h3>
   <code>XMLDocument document = new XMLDocument(new File("<your XML-File>"));</code>
-  <code>XMLDocument document = new XMLDocument();</code>
-  <code>document.loadXML(new File("<your XML-File>"));</code>
+  <br/>
+  <code>XMLDocument document = new XMLDocument();
+  <br/>document.loadXML(new File("<your XML-File>"));</code>
 </div>
