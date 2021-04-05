@@ -1,6 +1,7 @@
-# JavaXML
-Read and write XML-Documents in plain Java
-
-HI
-
-<h1>Header1</h1>
+<h1>JavaXML</h1>
+<div>
+  
+  <p>Simple way to read and write XML-Files in plain Java.</p>
+  <p>Some examples below</p>  
+  
+</div>
