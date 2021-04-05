@@ -5,8 +5,12 @@
 </div>
 <div>
   <h3>Reading the XML-File</h3>
+  <p>There are to ways to load the XML-File into your Programm:</p>
+  <br/>
+  <p>Parsing the XML File via the Constructor.</p>
   <code>XMLDocument document = new XMLDocument(new File("<your XML-File>"));</code>
   <br/>
+  <p>Or by calling the loadXML method. This will override the previous contents of your XMLDocument object.</p>
   <code>XMLDocument document = new XMLDocument();</code>
   <br/>
   <code>document.loadXML(new File("<your XML-File>"));</code>
